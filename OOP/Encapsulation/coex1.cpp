@@ -39,7 +39,13 @@ public:
 
     void setMarks(int marks)
     {
-        this->marks = marks;
+        if((marks >= 0) && (marks <= 100))
+        {
+            this->marks = marks;
+        }
+        else{
+            cout << "Invalid marks entered";
+        }
     }
 
     string getName()

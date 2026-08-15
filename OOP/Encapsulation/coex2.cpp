@@ -28,22 +28,28 @@ using namespace std;
 class BankAccount
 {
 private:
-    double balance;
+    double balance{};
 
 public:
     void deposit(double amount)
     {
-        this->balance = amount;
+        if(amount > 0)
+        {
+            balance += amount;
+        }
     }
 
     void withdraw(double amount)
     {
-        this->balance = this->balance - amount;
+        if(amount > 0 && amount <= balance)
+        {
+            balance -= amount;
+        }
     }
 
     double getBalance()
     {
-        return this->balance;
+        return balance;
     }
 };
 
