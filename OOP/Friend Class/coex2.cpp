@@ -25,9 +25,9 @@ private:
     int balance;
 
 public:
-    BankAccount(int b)
+    BankAccount(int B)
     {
-        balance = b;
+        balance = B;
     }
 
     friend class BankManager;

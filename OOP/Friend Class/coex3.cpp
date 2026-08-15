@@ -45,9 +45,9 @@ public:
 class Calculator
 {
 public:
-    void add(Number n1, Number n2)
+    void add(Number num1, Number num2)
     {
-        cout << "Addition is " << n1.value + n2.value ;
+        cout << "Addition is " << num1.value + num2.value ;
     }
 };
 

@@ -42,10 +42,10 @@ public:
 class Teacher
 {
 public:
-    void display(Student s)
+    void display(Student S)
     {
-        cout << "Name : " << s.name << endl;
-        cout << "Marks : " << s.marks;
+        cout << "Name : " << S.name << endl;
+        cout << "Marks : " << S.marks;
     }
 };
 
