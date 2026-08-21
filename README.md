@@ -1,10 +1,10 @@
-# 🚀 C++ Learning Journey
+# C++ Learning Journey
 
 > A structured and comprehensive C++ learning repository covering programming fundamentals, object-oriented programming, data structures, algorithms, and modern C++ concepts through hands-on coding exercises and projects.
 
 ---
 
-# 📖 About
+# About
 
 This repository documents my complete C++ learning journey.
 
@@ -12,7 +12,7 @@ It is organized into well-structured modules that progressively build from the b
 
 ---
 
-# 🗂 Repository Structure
+# Repository Structure
 
 ```
 Cpp-Learning
@@ -32,9 +32,9 @@ Cpp-Learning
 
 ---
 
-# 🛣 C++ Learning Roadmap
+# C++ Learning Roadmap
 
-## 📌 Module 0 — Introduction
+## Module 0 — Introduction
 
 Build a strong foundation by understanding how C++ works and setting up the development environment.
 
@@ -49,7 +49,7 @@ Build a strong foundation by understanding how C++ works and setting up the deve
 
 ---
 
-## 📌 Module 1 — Basics
+## Module 1 — Basics
 
 Learn the fundamental building blocks of C++ programming.
 
@@ -65,7 +65,7 @@ Learn the fundamental building blocks of C++ programming.
 
 ---
 
-## 📌 Module 2 — Operators
+## Module 2 — Operators
 
 Understand how different operators perform calculations and comparisons.
 
@@ -81,7 +81,7 @@ Understand how different operators perform calculations and comparisons.
 
 ---
 
-## 📌 Module 3 — Decision Making
+## Module 3 — Decision Making
 
 Learn how programs make decisions based on conditions.
 
@@ -95,7 +95,7 @@ Learn how programs make decisions based on conditions.
 
 ---
 
-## 📌 Module 4 — Loops
+## Module 4 — Loops
 
 Master repetition and iteration in programming.
 
@@ -111,7 +111,7 @@ Master repetition and iteration in programming.
 
 ---
 
-## 📌 Module 5 — Functions
+## Module 5 — Functions
 
 Write reusable and modular code using functions.
 
@@ -129,7 +129,7 @@ Write reusable and modular code using functions.
 
 ---
 
-## 📌 Module 6 — Arrays
+## Module 6 — Arrays
 
 Store and manipulate collections of data efficiently.
 
@@ -145,7 +145,7 @@ Store and manipulate collections of data efficiently.
 
 ---
 
-## 📌 Module 7 — Strings
+## Module 7 — Strings
 
 Work with text and character data.
 
@@ -160,7 +160,7 @@ Work with text and character data.
 
 ---
 
-## 📌 Module 8 — Pointers
+## Module 8 — Pointers
 
 Understand memory management using pointers.
 
@@ -175,7 +175,7 @@ Understand memory management using pointers.
 
 ---
 
-## 📌 Module 9 — References
+## Module 9 — References
 
 Learn how references simplify programming and improve function calls.
 
@@ -188,7 +188,7 @@ Learn how references simplify programming and improve function calls.
 
 ---
 
-## 📌 Module 10 — Recursion
+## Module 10 — Recursion
 
 Solve problems by allowing functions to call themselves.
 
@@ -202,7 +202,7 @@ Solve problems by allowing functions to call themselves.
 
 ---
 
-## 📌 Module 11 — Object-Oriented Programming (OOP)
+## Module 11 — Object-Oriented Programming (OOP)
 
 Learn how to design programs using objects and classes.
 
@@ -222,7 +222,7 @@ Learn how to design programs using objects and classes.
 
 ---
 
-## 📌 Module 12 — Inheritance
+## Module 12 — Inheritance
 
 Build new classes from existing classes.
 
@@ -237,7 +237,7 @@ Build new classes from existing classes.
 
 ---
 
-## 📌 Module 13 — Polymorphism
+## Module 13 — Polymorphism
 
 Learn how one interface can perform multiple tasks.
 
@@ -252,7 +252,7 @@ Learn how one interface can perform multiple tasks.
 
 ---
 
-## 📌 Module 14 — File Handling
+## Module 14 — File Handling
 
 Store and retrieve data from files.
 
@@ -267,7 +267,7 @@ Store and retrieve data from files.
 
 ---
 
-## 📌 Module 15 — Exception Handling
+## Module 15 — Exception Handling
 
 Write robust programs by handling runtime errors.
 
@@ -281,7 +281,7 @@ Write robust programs by handling runtime errors.
 
 ---
 
-## 📌 Module 16 — Templates
+## Module 16 — Templates
 
 Write generic and reusable code.
 
@@ -293,7 +293,7 @@ Write generic and reusable code.
 
 ---
 
-## 📌 Module 17 — Standard Template Library (STL)
+## Module 17 — Standard Template Library (STL)
 
 Explore C++'s powerful built-in library.
 
@@ -316,7 +316,7 @@ Explore C++'s powerful built-in library.
 
 ---
 
-## 📌 Module 18 — Smart Pointers & Modern C++
+## Module 18 — Smart Pointers & Modern C++
 
 Learn modern memory management techniques.
 
@@ -332,7 +332,7 @@ Learn modern memory management techniques.
 
 ---
 
-## 📌 Module 19 — Data Structures & Algorithms
+## Module 19 — Data Structures & Algorithms
 
 Develop efficient problem-solving skills.
 
@@ -352,7 +352,7 @@ Develop efficient problem-solving skills.
 
 ---
 
-## 📌 Module 20 — Competitive Programming
+## Module 20 — Competitive Programming
 
 Learn advanced techniques for coding interviews and programming contests.
 
@@ -369,7 +369,7 @@ Learn advanced techniques for coding interviews and programming contests.
 
 ---
 
-## 📌 Module 21 — Mini Projects
+## Module 21 — Mini Projects
 
 Apply C++ concepts by building complete applications.
 
@@ -387,7 +387,7 @@ Apply C++ concepts by building complete applications.
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Build a strong foundation in C++
 - Master Object-Oriented Programming
@@ -399,7 +399,7 @@ Apply C++ concepts by building complete applications.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Aditya Chopade**
 
