@@ -21,6 +21,7 @@ int main()
 
     cout << v.front() << endl;
     cout << v.back() << endl;
+    cout << "Size of vector is " << v.size() << endl;
 
     return 0;
 }
