@@ -24,8 +24,12 @@ int main()
     for(int i=0; i<n ; i++)
     {
         cin >> temp;
-        sum += temp;
         v.push_back(temp);
+    }
+
+    for(int x : v)
+    {
+        sum += x;
     }
     cout << "\nSum = " << sum ;
     
