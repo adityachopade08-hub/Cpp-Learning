@@ -35,7 +35,9 @@ int main()
     if(it != students.end())
     {
         cout << "Found\n";
-        cout << it->first << "  :  " << it->second << endl;
+        cout << it->first << "  :  " << it->second << endl; 
+        //it->first is equal to (*it).first;
+        //it->second is equal to (*it).second;
     }
     else
     {
