@@ -42,7 +42,7 @@ int main()
         cout << "Name - ";
         cin >> name;
 
-        student.insert({roll,name});
+        student.insert({roll,name});   //or  student[roll] = name;
     }
 
     int rollNo;
