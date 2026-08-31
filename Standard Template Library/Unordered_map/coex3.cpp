@@ -23,7 +23,6 @@ int main()
 
     unordered_map<int,int> freq;
 
-
     for(int x : v)
     {
         freq[x]++;
